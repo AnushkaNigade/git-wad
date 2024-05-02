@@ -1,0 +1,27 @@
+GIT COMMANDS
+
+mkdir Part-A(folder name)
+
+cd Part-A(folder name)
+
+make text file
+
+git –version
+
+git init
+
+git add .
+
+git status
+
+git remote add origin (http link )
+
+git commit -m "First Commit"
+
+git status
+
+git push  origin master 
+or
+git push origin main
+
+
